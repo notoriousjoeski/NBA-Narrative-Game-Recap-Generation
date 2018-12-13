@@ -1,4 +1,4 @@
-#NBA-Narrative-Game-Recap-Generation
+#NBA-Narrative-Game-Recap-Generation#
 
 In this project we propose a model that generates NBA sports recaps after games.  
 My implementation uses a character level sequence-to sequence model. Processing the input character by character and 
